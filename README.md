@@ -15,3 +15,5 @@ From GitHub:
 `pip install git+https://github.com/donno2048/spamcmd`
 
 ### Use it on your own responsibility
+
+[![demo](https://asciinema.org/a/LQOPG4bYSGvLsP8RKzyncZZZw.svg)](https://asciinema.org/a/LQOPG4bYSGvLsP8RKzyncZZZw)
