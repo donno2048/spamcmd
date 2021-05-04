@@ -16,4 +16,4 @@ From GitHub:
 
 ### Use it on your own responsibility
 
-[![demo](https://asciinema.org/a/LQOPG4bYSGvLsP8RKzyncZZZw.svg)](https://asciinema.org/a/LQOPG4bYSGvLsP8RKzyncZZZw)
+[![demo](https://asciinema.org/a/411768.svg)](https://asciinema.org/a/411768)
